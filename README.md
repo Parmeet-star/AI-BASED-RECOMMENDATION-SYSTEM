@@ -17,3 +17,5 @@ MENTOR: NEELA SANTOSH
 The goal of this task is to design and implement an AI-based recommendation system using Java as the core programming language, developed within the IntelliJ IDEA integrated development environment. This system will leverage artificial intelligence concepts such as machine learning, user profiling, similarity metrics, and data modeling to provide personalized recommendations to users based on their preferences, behavior, and historical data.##
 
 ##OUTPUT
+
+![image](https://github.com/user-attachments/assets/e826484d-a89a-4df0-b869-cea408b6a0f9)
